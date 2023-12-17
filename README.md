@@ -33,9 +33,3 @@ Please make sure to update tests as appropriate.
 ![screenshot](/ScreenShot/Screenshot_4.png)
 
 
-
-## Contact
-[Linkedin](https://www.linkedin.com/in/vivekdevkar123)
-
-
-### Email : mrvivekdevkar123@gmail.com
